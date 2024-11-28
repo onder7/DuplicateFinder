@@ -6,8 +6,6 @@ https://drive.google.com/file/d/1HdHpmFnlvy0Py_PamRe1BsT8u5AOBux6/view?usp=drive
 
 Yinelenen Dosya Bulucu, bilgisayarınızdaki çift kopya dosyaları bulmanızı sağlayan Python tabanlı bir GUI uygulamasıdır.
 
-![Uygulama Ekran Görüntüsü](screenshots/app.png)
-
 ## Özellikler
 
 - 🔍 Klasör ve alt klasörlerde yinelenen dosyaları bulma
