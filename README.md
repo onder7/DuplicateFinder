@@ -2,6 +2,7 @@
 Yinelenen Dosya Bulucu
 https://drive.google.com/file/d/1HdHpmFnlvy0Py_PamRe1BsT8u5AOBux6/view?usp=drive_link
 # Yinelenen Dosya Bulucu (Duplicate File Finder)
+![image](https://github.com/user-attachments/assets/d5c43a78-9cb1-4fc5-a93c-9537a3426eae)
 
 Yinelenen Dosya Bulucu, bilgisayarınızdaki çift kopya dosyaları bulmanızı sağlayan Python tabanlı bir GUI uygulamasıdır.
 
